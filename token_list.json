@@ -2,7 +2,7 @@
   "name": "Zada",
   "logoURI": "http://www.zadafinance.com/zda-logo.png",
   "keywords": ["scaling", "layer2", "infrastructure"],
-  "timestamp": "2023-02-13T11:55:01.869Z",
+  "timestamp": "2023-11-9T12:00:00.869Z",
   "tokens": [
     {
       "chainId": 534353,
@@ -51,11 +51,59 @@
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "http://www.zadafinance.com/usdc-logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xaa2E06a56868BA864085d983ECa4cC432e08A6aC",
+      "name": "PilotDoge",
+      "symbol": "PLD",
+      "decimals": 18,
+      "logoURI": "https://bafkreicyntj36lm33ral462kilaoj26xnwuxueuronkzw747psvcucl3ri.ipfs.nftstorage.link"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
