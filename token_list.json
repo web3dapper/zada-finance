@@ -2,7 +2,7 @@
   "name": "Zada",
   "logoURI": "http://www.zadafinance.com/zda-logo.png",
   "keywords": ["scaling", "layer2", "infrastructure"],
-  "timestamp": "2023-11-9T12:00:00.869Z",
+  "timestamp": "2023-11-09T12:00:00.869Z",
   "tokens": [
     {
       "chainId": 534353,
@@ -103,7 +103,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 3
   }
 }
