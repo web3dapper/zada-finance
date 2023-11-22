@@ -99,11 +99,19 @@
       "symbol": "PLD",
       "decimals": 18,
       "logoURI": "https://bafkreicyntj36lm33ral462kilaoj26xnwuxueuronkzw747psvcucl3ri.ipfs.nftstorage.link"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3Aa9a2f7CF0a74E834FCf20fB8a10266AA205FF4",
+      "name": "FuckPilotdog",
+      "symbol": "FPLD",
+      "decimals": 18,
+      "logoURI": "https://bafkreienpswnwbdllqkli4mkphvwuxnbtcse6yq7wh5jbk4w5dxjwlw36u.ipfs.nftstorage.link/"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 3
   }
 }
